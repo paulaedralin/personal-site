@@ -1,4 +1,3 @@
-// Challenge 2:
 // Replace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
